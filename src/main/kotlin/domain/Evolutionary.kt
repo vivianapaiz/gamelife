@@ -1,6 +1,5 @@
 package domain
 
-interface Evolutionable {
-
+interface Evolutionary {
     fun nextGeneration(numberOfNeighbors: Int): Boolean
 }
