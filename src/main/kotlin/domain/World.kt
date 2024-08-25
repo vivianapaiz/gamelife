@@ -1,3 +1,5 @@
 package domain
 
-class World(location: Location)
+class World(location: Location){
+
+}
